@@ -4,10 +4,9 @@ Welcome to my internship portfolio. This repository documents my progression thr
 
 ## Repository Structure
 
-* **[Project 1: Rule-Based AI Chatbot](./Project1_RuleBasedChatbot/)** 
-  A deterministic, white-box control layer demonstrating memory optimization, O(1) routing, and structural software engineering.
-* *Project 2: Pending...*
-* *Project 3: Pending...*
+* [Project 1: Rule-Based AI Chatbot](./Project1_RuleBasedChatbot) A deterministic, white-box control layer demonstrating memory optimization, O(1) routing, and structural software engineering.
+* [Project 2: Data Classification AI](./Project2_DataClassification) A supervised learning pipeline utilizing Scikit-Learn to implement a K-Nearest Neighbors (KNN) algorithm on the Iris dataset, evaluated via Confusion Matrix and F1 Scores.
+* Project 3: Pending...
 
 ---
 *Engineered by Syed Osaid Kamran* 
