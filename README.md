@@ -17,6 +17,8 @@ Welcome to my internship portfolio. This repository documents my progression thr
 ### [Project 4: Vision Engine](Project4_VisionEngine/)
 * **Description:** An industrial-grade computer vision pipeline utilizing `OpenCV` and `MobileNet-SSD` for real-time visual data ingestion, blob pre-processing, and neural network inference. Features a configurable confidence threshold gate to eliminate false positives.
 
+### [Project 5: Advanced Vision Engine](Project5_AdvancedVisionEngine/)
+* **Description:** An advanced deep learning inference system extending the foundational vision architecture. Engineered to execute multi-class object localization utilizing OpenCV's DNN module, dynamically generating bounding geometries and percentage-based confidence annotations across unstructured visual data.
 
 ## 🛠️ Environment & Setup
 
